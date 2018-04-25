@@ -1,0 +1,17 @@
+{
+  "name": "lgtv-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "author": "Agrim Asthana",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "lgtv2": "^1.4.1",
+    "lodash": "^4.17.10",
+    "ps4-waker": "^1.4.3",
+    "wakeonlan": "^0.1.0"
+  }
+}
