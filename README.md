@@ -6,4 +6,3 @@
 - [x] Connect to PS4
 - [x] Switch input on TV to PS4
 - [ ] Launch a game on the PS4
-- [ ] Jupiter
